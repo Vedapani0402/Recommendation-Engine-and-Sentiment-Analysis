@@ -1,6 +1,5 @@
 # Recommendation Engine and Sentiment Analysis
 
-Overview
 This repository contains the implementation of a recommendation engine and sentiment analysis pipeline for Amazon electronic products. The recommendation engine is based on a user-user collaborative filtering approach, which suggests products to users by identifying other users with similar preferences. Additionally, the sentiment analysis module evaluates user reviews to understand the sentiment behind the purchased products.
 
 ## Features
